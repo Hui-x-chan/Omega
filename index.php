@@ -1,3 +1,11 @@
+<?php
+
+traitement php;
+
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 
